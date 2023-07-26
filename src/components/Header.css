@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.dark_mode{
+    background-color: black;
+}
+.dark_mode h1{
+    color: white
+}
