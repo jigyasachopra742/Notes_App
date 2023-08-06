@@ -1,3 +1,7 @@
+#Notes-App
+
+In this project we can add the notes of our choice, delete the notes and also search for a specific note
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
