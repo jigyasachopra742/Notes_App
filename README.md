@@ -1,6 +1,6 @@
 #Notes-App
 
-In this project we can add the notes of our choice, delete the notes and also search for a specific note
+In this project we can add the notes of our choice📚, delete the notes and also search for a specific note 
 
 # Getting Started with Create React App
 
